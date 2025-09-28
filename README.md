@@ -37,5 +37,5 @@ Exposed agents may become infected based on transmission_prob. Risk class modifi
 Agents can also be visualized over time. Red agents are infected, yellow are exposed, blue and susceptible, and green are recovered. For instance, here is a sample initial condition:
 ![seir](https://github.com/karthik-krishnan-28/Dorm-Infection-SEIR-Model/blob/main/extras/start.png)
 
-And here is a sample final condition:
+And here is a the corresponding final condition:
 ![seir](https://github.com/karthik-krishnan-28/Dorm-Infection-SEIR-Model/blob/main/extras/end.png)

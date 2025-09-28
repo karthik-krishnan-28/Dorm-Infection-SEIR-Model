@@ -3,7 +3,7 @@ A 2D agent-based simulation of infection spread and intervention dynamics in a c
 
 This project uses Julia's Agents.jl package to simulate how infection spreads in a dorm setting based on public health interventions such as masking and vaccination. Each student is represented by an agent that interacts with neighbors and transitions between states (Susceptible, Exposed, Infected, Recovered) over time.
 
-![seir-model](https://github.com/karthik-krishnan-28/Dorm-Infection-SIR-Model/extras/seir.png)
+![seir](https://github.com/karthik-krishnan-28/Dorm-Infection-SEIR-Model/blob/main/extras/seir.png)
 
 ## Features
 1. Spatially explicit 2D grid-based simulation of a dorm.

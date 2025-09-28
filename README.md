@@ -31,3 +31,11 @@ Exposed agents may become infected based on transmission_prob. Risk class modifi
 ## Sample Results
 
 ![seir](https://github.com/karthik-krishnan-28/Dorm-Infection-SEIR-Model/blob/main/extras/seir.png)
+
+## Visualizing agents
+
+Agents can also be visualized over time. For instance, here is a sample initial condition:
+![seir](https://github.com/karthik-krishnan-28/Dorm-Infection-SEIR-Model/blob/main/extras/start.png)
+
+And here is a sample final condition:
+![seir](https://github.com/karthik-krishnan-28/Dorm-Infection-SEIR-Model/blob/main/extras/end.png)
